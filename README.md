@@ -1,6 +1,6 @@
 ## Cheetah Solutions Network - Termos de Serviço
 
-*Última atualização: 5 de junho de 2024*
+**Última atualização: 5 de junho de 2024**
 
 ## 📘 Introdução
 
@@ -28,7 +28,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 1.10 Qualquer tentativa de prejudicar os serviços resultará na suspensão imediata dos serviços prestados.
 
-*2. Coleta de Dados e Informações*
+## 2. Coleta de Dados e Informações
 
 2.1 Para utilizar nossos serviços, é necessário fornecer informações como ID do Discord, e-mail, e país de origem.
 
@@ -40,7 +40,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 2.5 Acesso a determinadas funcionalidades pode ser restrito para garantir a segurança dos usuários.
 
-*3. Direitos dos Usuários*
+## 3. Direitos dos Usuários
 
 3.1 Você tem o direito de usar os serviços conforme o plano contratado, desde que não viole nenhuma cláusula destes termos.
 
@@ -48,7 +48,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 3.3 Caso sua conta seja indevidamente bloqueada, você deve comunicar a equipe da Cheetah Solutions Network.
 
-*4. Política de Privacidade e Segurança*
+## 4. Política de Privacidade e Segurança
 
 4.1 Você é responsável por preservar os arquivos e direitos legais de sua aplicação.
 
@@ -56,7 +56,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 4.3 Estamos comprometidos com a privacidade e segurança dos usuários. Para dúvidas, entre em contato.
 
-*5. Política de Reembolso*
+## 5. Política de Reembolso
 
 5.1 Todas as compras são realizadas por livre e espontânea vontade.
 
@@ -70,7 +70,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 5.6 A solicitação de reembolso deve ser feita exclusivamente via e-mail e deve conter as informações necessárias, incluindo nota fiscal.
 
-*6. Conteúdo e Remoção*
+## 6. Conteúdo e Remoção
 
 6.1 Você é responsável pelo conteúdo armazenado, transmitido, publicado ou compartilhado nos serviços da Cheetah Solutions.
 
@@ -78,7 +78,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 6.3 Aplicações podem ser desativadas automaticamente se atividades suspeitas forem detectadas.
 
-*7. Manutenções e Atualizações*
+## 7. Manutenções e Atualizações
 
 7.1 Manutenções serão realizadas sempre que necessário para garantir a estabilidade e segurança dos serviços.
 
@@ -86,7 +86,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 7.3 Manutenções serão comunicadas com antecedência, sempre que possível.
 
-*8. Licença e Restrições*
+## 8. Licença e Restrições
 
 8.1 É proibido copiar, modificar ou tentar extrair o código-fonte dos serviços sem autorização.
 
@@ -94,13 +94,13 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 8.3 Desativar ou contornar mecanismos de segurança resultará na suspensão imediata dos serviços.
 
-*9. Indenização*
+## 9. Indenização
 
 9.1 Você concorda em isentar a Cheetah Solutions de quaisquer reivindicações decorrentes do uso dos serviços.
 
 9.2 Violação dos termos pode resultar em cobrança judicial.
 
-*10. Modificação e Cancelamento de Serviços*
+## 10. Modificação e Cancelamento de Serviços
 
 10.1 Atualizações serão realizadas periodicamente e você concorda com elas ao continuar a usar os serviços.
 
@@ -108,7 +108,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 10.3 Informações não serão modificadas sem autorização, mas podem ser removidas se violarem os termos de uso.
 
-*11. Responsabilidade*
+## 11. Responsabilidade
 
 11.1 Não nos responsabilizamos pela perda de arquivos. Realize backups regularmente.
 
@@ -116,7 +116,7 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 11.3 Não nos responsabilizamos por danos decorrentes do uso dos serviços.
 
-**12. Direitos Autorais**
+## 12. Direitos Autorais
 
 12.1 Você deve responder a acusações judiciais em seu nome.
 
@@ -126,12 +126,12 @@ Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você est�
 
 12.4 Você é responsável pela auditoria de seus arquivos.
 
-*13. Outros Conteúdos*
+## 13. Outros Conteúdos
 
 13.1 Podemos divulgar seu conteúdo para fins de marketing, com seu consentimento.
 
 13.2 Feedbacks e comentários públicos podem ser usados para aprimorar a plataforma e atrair novos usuários, com seu consentimento.
 
-*Conclusão*
+## Conclusão
 
 Ao utilizar os serviços da Cheetah Solutions Network, você concorda com todos os termos acima. Estamos aqui para oferecer a melhor experiência possível e contamos com a sua colaboração para manter um ambiente seguro e eficiente para todos.
